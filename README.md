@@ -68,11 +68,10 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=susinsurendran&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=susinsurendran&hide_border=true" width="48%" />
 </p>
 
-*(Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in both links above)*
 
 ---
 
