@@ -58,7 +58,7 @@
 
 <p align="left">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/susin-p-98684b381/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUc0niVLCRiu%2BD7XXg6hCnQ%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 
