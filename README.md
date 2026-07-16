@@ -31,17 +31,6 @@
 
 ---
 
-### 📊 Featured Projects
-
-> Here are some of the projects I've worked on. More are on the way as I keep building!
-
-| Project | Tools Used | Description |
-|---|---|---|
-| 📈 **[Sales Performance Dashboard]()** | Power BI | Interactive dashboard analyzing sales trends, regional performance, and KPIs to support business decisions |
-| 📊 **[Data Cleaning & Analysis in Excel]()** | Excel | Cleaned and analyzed a real-world dataset using pivot tables, formulas, and charts to derive key insights |
-| 🚧 **More projects in progress...** | SQL, Python, Tableau | Currently building projects to strengthen my query, scripting, and visualization skills |
-
-*(Replace the empty `()` links above with your actual GitHub repo links once uploaded)*
 
 ---
 
